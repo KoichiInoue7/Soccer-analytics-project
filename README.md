@@ -16,8 +16,7 @@ This is an ongoing project; part 1 focuses on **shots**.
 
 ## Next
 
-<!-- TODO: say in your own words what you want to find out, e.g. "visualise every shot
-on a pitch, coloured by xG" or "compare a team's xG with the goals they actually scored" -->
+Plot every shot on a pitch, colored by xG, to see where the best chances come from.
 
 ## How to run
 
